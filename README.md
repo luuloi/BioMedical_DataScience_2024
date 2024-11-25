@@ -9,4 +9,6 @@
 - [ECG Data](https://physionet.org/content/ptb-xl/1.0.1/): [Data Practice](https://drive.google.com/file/d/1TOXzRMsQYiMcGPICi1WJ6vppmQ5xamET/view?usp=sharing)
 
 ## MATERIAL
-- [MGMA_2024](https://github.com/UeenHuynh/MGMA_2024)
+- [GITHUB_MGMA_2024](https://github.com/UeenHuynh/MGMA_2024)
+- [YOUTUBE_MGMA_2024](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s)
+- [YOUTUBE_SINGLE-CELL_RNA](https://www.youtube.com/watch?v=pVyZvX8N5ww&list=PLXtgXP89Tyn_N5HAs-SWgbMKr_iOIhYrw&pp=iAQB)
