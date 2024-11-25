@@ -11,4 +11,4 @@
 ## MATERIAL
 - [GITHUB_MGMA_2024](https://github.com/UeenHuynh/MGMA_2024)
 - [YOUTUBE_MGMA_2024](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s)
-- [YOUTUBE_SINGLE-CELL_RNA](https://www.youtube.com/watch?v=pVyZvX8N5ww&list=PLXtgXP89Tyn_N5HAs-SWgbMKr_iOIhYrw&pp=iAQB)
+- [YOUTUBE_SINGLE-CELL_RNA-SEQ](https://www.youtube.com/watch?v=pVyZvX8N5ww&list=PLXtgXP89Tyn_N5HAs-SWgbMKr_iOIhYrw&pp=iAQB)
