@@ -6,4 +6,4 @@
 **Genomic Data:**
 - [scRNA data](https://drive.google.com/drive/folders/1EuQehUysu9yb4ppVEyuk8RfO_VHGBGRF)
 - [DNA Methylation data](https://github.com/luuloi/BioMedical_DataScience_2024/blob/main/Lecture_0/DNA_methylation.rar) \
-- [**ECG Data**](https://physionet.org/content/ptb-xl/1.0.1/)
+- [ECG Data](https://physionet.org/content/ptb-xl/1.0.1/)
