@@ -6,8 +6,8 @@
 **Datasets:**
 - [scRNA data include: 1. Raw count: 2700 cells x 32738 genes & 2. Processed count: 2638 cells × 1838 gene](https://drive.google.com/drive/folders/1EuQehUysu9yb4ppVEyuk8RfO_VHGBGRF)
 - [DNA Methylation data](https://github.com/luuloi/BioMedical_DataScience_2024/blob/main/Lecture_0/DNA_methylation.rar)
-- [ECG Data](https://physionet.org/content/ptb-xl/1.0.1/): [Data Practice](https://drive.google.com/file/d/1TOXzRMsQYiMcGPICi1WJ6vppmQ5xamET/view?usp=sharing) \
-- 
+- [ECG Data](https://physionet.org/content/ptb-xl/1.0.1/): [Data Practice](https://drive.google.com/file/d/1TOXzRMsQYiMcGPICi1WJ6vppmQ5xamET/view?usp=sharing)
+
 [**L0.2.Feature Selection with LASSO - 2/12/2024**](https://github.com/luuloi/BioMedical_DataScience_2024/blob/main/Lecture_0.2/Lecture02_LASSO.pdf)
 
 ### MATERIAL
